@@ -1,0 +1,559 @@
+13-Oct-2026 00:00:06.106 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:06.152 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:06.966 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:07.005 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:07.241 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:07.313 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:24.970 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:25.011 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:48.771 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:48.829 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:48.960 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:49.015 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:00:49.195 INFO [http-nio-8080-exec-34] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:00:49.241 INFO [http-nio-8080-exec-34] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:01:08.089 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:01:08.135 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:01:36.766 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:01:36.813 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:01:36.987 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:01:37.031 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:01:37.216 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:01:37.261 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:01:55.437 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:01:55.482 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:23.760 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:23.811 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:23.939 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:23.970 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:24.136 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:24.176 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:34.520 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:34.554 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:34.915 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:34.942 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:05:35.609 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:05:35.637 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:09:28.422 INFO [http-nio-8080-exec-45] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:09:28.531 INFO [http-nio-8080-exec-45] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:09:30.992 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:09:31.058 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:09:37.704 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:09:37.759 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:10:27.233 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:10:27.792 INFO [http-nio-8080-exec-42] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:10:27.805 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:10:29.801 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:10:30.203 INFO [http-nio-8080-exec-55] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:10:30.207 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:10:30.365 INFO [http-nio-8080-exec-56] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:10:30.706 INFO [http-nio-8080-exec-56] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:10:30.722 INFO [http-nio-8080-exec-56] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:14:20.234 INFO [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:14:20.985 INFO [http-nio-8080-exec-50] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:14:20.992 INFO [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:21:55.744 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:21:56.452 INFO [http-nio-8080-exec-61] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:21:56.455 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:21:56.793 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:21:57.405 INFO [http-nio-8080-exec-66] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:21:57.407 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:05.514 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:05.832 INFO [http-nio-8080-exec-61] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:05.834 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:07.118 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:07.512 INFO [http-nio-8080-exec-68] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:07.513 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:07.831 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:08.203 INFO [http-nio-8080-exec-63] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:08.205 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:19.589 INFO [http-nio-8080-exec-69] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:19.957 INFO [http-nio-8080-exec-69] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:19.959 INFO [http-nio-8080-exec-69] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:20.555 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:20.952 INFO [http-nio-8080-exec-67] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:20.953 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:23:21.276 INFO [http-nio-8080-exec-73] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:23:21.626 INFO [http-nio-8080-exec-73] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:23:21.627 INFO [http-nio-8080-exec-73] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:26:46.062 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:26:46.612 INFO [http-nio-8080-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:26:46.615 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:29:16.077 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:29:16.847 INFO [http-nio-8080-exec-68] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:29:16.854 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:29:17.251 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:29:17.717 INFO [http-nio-8080-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:29:17.717 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:29:57.764 INFO [http-nio-8080-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:29:58.451 INFO [http-nio-8080-exec-76] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:29:58.451 INFO [http-nio-8080-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:29:58.791 INFO [http-nio-8080-exec-82] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:29:59.228 INFO [http-nio-8080-exec-82] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:29:59.232 INFO [http-nio-8080-exec-82] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:30:26.666 INFO [http-nio-8080-exec-85] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:30:26.979 INFO [http-nio-8080-exec-85] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:30:26.981 INFO [http-nio-8080-exec-85] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:30:43.427 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:30:43.741 INFO [http-nio-8080-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:30:43.743 INFO [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:46:16.907 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:46:19.039 INFO [http-nio-8080-exec-90] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:46:19.113 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:46:19.564 INFO [http-nio-8080-exec-91] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:46:20.038 INFO [http-nio-8080-exec-91] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:46:20.038 INFO [http-nio-8080-exec-91] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:47:49.753 INFO [http-nio-8080-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:47:50.371 INFO [http-nio-8080-exec-93] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:47:50.377 INFO [http-nio-8080-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:47:50.729 INFO [http-nio-8080-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:47:51.078 INFO [http-nio-8080-exec-95] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:47:51.083 INFO [http-nio-8080-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:49:51.918 INFO [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:49:52.620 INFO [http-nio-8080-exec-99] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:49:52.624 INFO [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:53:26.776 INFO [http-nio-8080-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 00:53:27.412 INFO [http-nio-8080-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 00:53:27.418 INFO [http-nio-8080-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 00:53:34.450 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Oct-2026 00:53:34.472 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 00:53:34.488 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Oct-2026 00:53:34.527 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [AplikasiGajiWeb] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Oct-2026 00:53:34.530 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 00:53:34.561 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 00:53:34.648 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 12:43:40.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+13-Oct-2026 12:43:40.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+13-Oct-2026 12:43:40.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+13-Oct-2026 12:43:40.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 12:43:40.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 12:43:40.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 12:43:40.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+13-Oct-2026 12:43:40.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+13-Oct-2026 12:43:40.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 12:43:40.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 12:43:40.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 12:43:40.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 12:43:40.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+13-Oct-2026 12:43:40.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 12:43:40.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+13-Oct-2026 12:43:40.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 12:43:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 12:43:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+13-Oct-2026 12:43:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Oct-2026 12:43:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 12:43:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 12:43:40.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+13-Oct-2026 12:43:40.579 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+13-Oct-2026 12:43:40.579 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-Oct-2026 12:43:40.580 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-Oct-2026 12:43:40.601 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+13-Oct-2026 12:43:41.019 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 12:43:41.066 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [847] milliseconds
+13-Oct-2026 12:43:41.161 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 12:43:41.161 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+13-Oct-2026 12:43:41.172 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 12:43:41.184 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 12:43:42.315 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:43:42.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [1,208] ms
+13-Oct-2026 12:43:42.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+13-Oct-2026 12:43:42.381 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+13-Oct-2026 12:43:42.598 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:43:42.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [223] ms
+13-Oct-2026 12:43:42.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+13-Oct-2026 12:43:42.605 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+13-Oct-2026 12:43:42.844 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:43:42.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [241] ms
+13-Oct-2026 12:43:42.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml]
+13-Oct-2026 12:43:42.844 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MateriSessionCookies] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has been ignored
+13-Oct-2026 12:43:42.892 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has finished in [47] ms
+13-Oct-2026 12:43:42.894 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+13-Oct-2026 12:43:42.935 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [41] ms
+13-Oct-2026 12:43:42.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+13-Oct-2026 12:43:43.739 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [803] ms
+13-Oct-2026 12:43:43.739 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+13-Oct-2026 12:43:43.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [18] ms
+13-Oct-2026 12:43:43.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+13-Oct-2026 12:43:43.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [30] ms
+13-Oct-2026 12:43:43.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+13-Oct-2026 12:43:43.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [37] ms
+13-Oct-2026 12:43:43.828 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 12:43:43.854 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2786] milliseconds
+13-Oct-2026 12:43:46.076 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 12:43:46.519 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:43:46.538 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 12:44:52.155 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 12:44:52.997 INFO [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:44:53.012 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 12:44:55.091 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 12:44:55.705 INFO [http-nio-8080-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:44:55.705 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 12:45:06.268 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 12:45:06.705 INFO [http-nio-8080-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:45:06.708 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 12:48:43.358 WARNING [http-nio-8080-exec-23] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [AplikasiGajiKaryawanPTSintoryWeb] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Oct-2026 12:48:43.358 WARNING [http-nio-8080-exec-23] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiKaryawanPTSintoryWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 12:48:43.879 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiKaryawanPTSintoryWeb]
+13-Oct-2026 12:48:44.241 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1474)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1077)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 12:48:49.685 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 12:48:49.687 WARNING [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 12:48:50.169 INFO [http-nio-8080-exec-25] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 12:48:50.170 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [485] ms
+13-Oct-2026 12:48:50.174 INFO [http-nio-8080-exec-30] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/AplikasiGajiKaryawanPTSintoryWeb]] after start() had already been called. The second call will be ignored.
+13-Oct-2026 13:44:13.521 INFO [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:13.614 WARNING [http-nio-8080-exec-35] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [AplikasiGajiKaryawanPTSintoryWeb] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Oct-2026 13:44:13.614 WARNING [http-nio-8080-exec-35] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiKaryawanPTSintoryWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 13:44:14.146 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1474)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1077)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 13:44:14.146 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1474)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1077)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 13:44:15.208 INFO [http-nio-8080-exec-35] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:15.224 INFO [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:23.192 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:23.437 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:23.453 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:38.710 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:39.024 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:39.026 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:41.878 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:42.110 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:42.113 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:43.615 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:43.845 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:43.847 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:48.101 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:48.347 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:48.348 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:51.311 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:51.519 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:51.520 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:53.047 INFO [http-nio-8080-exec-49] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:53.269 INFO [http-nio-8080-exec-49] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:53.269 INFO [http-nio-8080-exec-49] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:44:58.417 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:44:58.676 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:44:58.678 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:01.772 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:02.004 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:02.006 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:03.334 INFO [http-nio-8080-exec-45] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:03.544 INFO [http-nio-8080-exec-45] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:03.544 INFO [http-nio-8080-exec-45] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:10.293 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:10.498 INFO [http-nio-8080-exec-53] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:10.501 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:13.366 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:13.602 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:13.604 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:14.033 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:14.228 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:14.230 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:26.035 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:26.262 INFO [http-nio-8080-exec-52] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:26.264 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:28.999 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:29.179 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:29.179 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:30.527 INFO [http-nio-8080-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:30.704 INFO [http-nio-8080-exec-51] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:30.706 INFO [http-nio-8080-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:45.093 INFO [http-nio-8080-exec-46] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:45.304 INFO [http-nio-8080-exec-46] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:45.305 INFO [http-nio-8080-exec-46] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:48.309 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:48.502 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:48.503 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:45:48.948 INFO [http-nio-8080-exec-58] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:45:49.116 INFO [http-nio-8080-exec-58] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:45:49.118 INFO [http-nio-8080-exec-58] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:00.969 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:01.170 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:01.171 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:03.955 INFO [http-nio-8080-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:04.167 INFO [http-nio-8080-exec-51] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:04.169 INFO [http-nio-8080-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:04.582 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:04.795 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:04.796 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:18.836 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:19.072 INFO [http-nio-8080-exec-61] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:19.074 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:21.876 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:22.112 INFO [http-nio-8080-exec-63] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:22.114 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:23.466 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:23.670 INFO [http-nio-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:23.671 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:33.690 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:33.995 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:33.996 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:36.834 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:37.176 INFO [http-nio-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:37.177 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:38.329 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:38.724 INFO [http-nio-8080-exec-67] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:38.725 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:44.484 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:45.172 INFO [http-nio-8080-exec-68] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:45.173 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:48.077 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:48.754 INFO [http-nio-8080-exec-61] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:48.755 INFO [http-nio-8080-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:46:49.742 INFO [http-nio-8080-exec-69] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:46:50.331 INFO [http-nio-8080-exec-69] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:46:50.332 INFO [http-nio-8080-exec-69] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:47:14.065 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:47:15.305 INFO [http-nio-8080-exec-67] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:47:15.305 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:47:17.205 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+13-Oct-2026 13:47:17.926 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:47:17.928 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+13-Oct-2026 13:47:30.316 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiKaryawanPTSintoryWeb]
+13-Oct-2026 13:47:35.298 INFO [http-nio-8080-exec-75] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 13:47:35.306 WARNING [http-nio-8080-exec-75] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 13:47:35.931 INFO [http-nio-8080-exec-75] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 13:47:35.938 INFO [http-nio-8080-exec-75] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [636] ms
+13-Oct-2026 13:47:35.941 INFO [http-nio-8080-exec-66] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/AplikasiGajiKaryawanPTSintoryWeb]] after start() had already been called. The second call will be ignored.
+13-Oct-2026 13:49:29.602 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiKaryawanPTSintoryWeb]
+13-Oct-2026 13:49:29.608 WARNING [Catalina-utility-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [AplikasiGajiKaryawanPTSintoryWeb] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Oct-2026 13:49:29.608 WARNING [Catalina-utility-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiKaryawanPTSintoryWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 13:49:29.613 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 13:49:29.614 WARNING [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 13:49:29.619 SEVERE [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:619)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:588)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:622)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:716)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1866)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:93)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:604)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:495)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:329)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:989)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1212)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1216)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1189)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@50b66a47]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:410)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:185)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4350)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4472)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:616)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\AplikasiGajiKaryawanPTSintory\AplikasiGajiKaryawanPTSintoryWeb\build\web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:822)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:774)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		... 28 more
+13-Oct-2026 13:49:29.714 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [101] ms
+13-Oct-2026 13:49:31.653 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1474)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1077)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 13:52:38.150 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Oct-2026 13:52:38.165 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 13:52:38.165 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Oct-2026 13:52:38.186 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 13:52:38.217 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:18:49.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+13-Oct-2026 14:18:49.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+13-Oct-2026 14:18:49.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 14:18:49.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 14:18:49.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+13-Oct-2026 14:18:49.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+13-Oct-2026 14:18:49.138 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+13-Oct-2026 14:18:49.138 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-Oct-2026 14:18:49.141 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-Oct-2026 14:18:49.168 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+13-Oct-2026 14:18:49.508 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:18:49.529 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [607] milliseconds
+13-Oct-2026 14:18:49.612 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 14:18:49.612 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+13-Oct-2026 14:18:49.621 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 14:18:49.632 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 14:18:50.875 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:18:50.915 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [1,294] ms
+13-Oct-2026 14:18:50.916 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+13-Oct-2026 14:18:50.916 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+13-Oct-2026 14:18:51.694 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:18:51.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [781] ms
+13-Oct-2026 14:18:51.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+13-Oct-2026 14:18:51.697 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+13-Oct-2026 14:18:51.882 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:18:51.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [203] ms
+13-Oct-2026 14:18:51.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml]
+13-Oct-2026 14:18:51.903 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MateriSessionCookies] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has been ignored
+13-Oct-2026 14:18:51.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has finished in [45] ms
+13-Oct-2026 14:18:51.949 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+13-Oct-2026 14:18:52.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [57] ms
+13-Oct-2026 14:18:52.007 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+13-Oct-2026 14:18:52.806 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [799] ms
+13-Oct-2026 14:18:52.806 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+13-Oct-2026 14:18:52.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [29] ms
+13-Oct-2026 14:18:52.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+13-Oct-2026 14:18:52.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [23] ms
+13-Oct-2026 14:18:52.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+13-Oct-2026 14:18:52.875 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [16] ms
+13-Oct-2026 14:18:52.878 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:18:52.901 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3359] milliseconds
+13-Oct-2026 14:18:59.717 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiKaryawanPTSintoryWeb]
+13-Oct-2026 14:18:59.727 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+13-Oct-2026 14:18:59.728 WARNING [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+13-Oct-2026 14:19:00.487 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:19:00.490 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [763] ms
+13-Oct-2026 14:23:15.701 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Oct-2026 14:23:15.704 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:23:15.708 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Oct-2026 14:23:15.739 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.io.WinNTFileSystem.canonicalize0(Native Method)
+ java.base/java.io.WinNTFileSystem.canonicalize(WinNTFileSystem.java:463)
+ java.base/java.io.File.getCanonicalPath(File.java:626)
+ org.apache.catalina.webresources.AbstractFileResourceSet.file(AbstractFileResourceSet.java:135)
+ org.apache.catalina.webresources.DirResourceSet.getResource(DirResourceSet.java:113)
+ org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:297)
+ org.apache.catalina.webresources.CachedResource.validateResource(CachedResource.java:129)
+ org.apache.catalina.webresources.Cache.getResource(Cache.java:115)
+ org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:229)
+ org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:238)
+ org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:972)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1098)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 14:23:15.774 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [AplikasiGajiKaryawanPTSintoryWeb] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Oct-2026 14:23:15.774 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [AplikasiGajiKaryawanPTSintoryWeb] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Oct-2026 14:23:15.775 SEVERE [main] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [AplikasiGajiKaryawanPTSintoryWeb] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@70ca533a]) and a value of type [org.apache.commons.collections4.map.ReferenceMap] (value [{}]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Oct-2026 14:23:15.972 SEVERE [main] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [AplikasiGajiKaryawanPTSintoryWeb] created a ThreadLocal with key of type [java.lang.ThreadLocal.SuppliedThreadLocal] (value [java.lang.ThreadLocal$SuppliedThreadLocal@6945fdb8]) and a value of type [org.eclipse.jdt.internal.compiler.util.CharDeduplication.CacheReference] (value [org.eclipse.jdt.internal.compiler.util.CharDeduplication$CacheReference@627dfd9f]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Oct-2026 14:23:15.972 SEVERE [main] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [AplikasiGajiKaryawanPTSintoryWeb] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@35e64c7b]) and a value of type [java.lang.Class] (value [class GajiReport_74f3247fb95a37a0ca6a57b3ce68cbbce6946bcfbf961b41b65450fdefb4e5de]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+13-Oct-2026 14:23:15.990 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:23:16.003 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:23:16.051 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1474)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1077)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)

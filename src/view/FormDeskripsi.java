@@ -9,6 +9,8 @@ package view;
  * @author anandaanugrah
  */
 public class FormDeskripsi extends javax.swing.JDialog {
+    private static final java.util.logging.Logger logger =
+            java.util.logging.Logger.getLogger(FormDeskripsi.class.getName());
     
         public FormDeskripsi(java.awt.Frame parent, boolean modal) {
             super(parent, modal);

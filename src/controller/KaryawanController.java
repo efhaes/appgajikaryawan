@@ -17,6 +17,10 @@ public class KaryawanController {
     private final Karyawan karyawan = new Karyawan();
     private FormLihatKaryawan formLihatKaryawan;
     private final Enkripsi enkripsi = new Enkripsi();
+    private boolean hashed = false;
+    public void setHashed(boolean hashed ){
+        this.hashed = hashed;
+    }
     
     public void simpan(javax.swing.JTextField ktpTextField,
                        javax.swing.JTextField namaTextField,
@@ -28,9 +32,13 @@ public class KaryawanController {
             karyawan.setRuang(Integer.parseInt(ruangComboBox.getSelectedItem().toString()));
             
             try {
-                String hashedPassword = enkripsi.hashMD5(new String(passwordField.getPassword()));
-                karyawan.setPassword(hashedPassword);
-            } catch (Exception ex) {
+                String password = new String(passwordField.getPassword());
+                if (!hashed){
+                    password = enkripsi.hashMD5(password);
+                    
+            } 
+            karyawan.setPassword(password);
+            }catch (Exception ex) {
                 JOptionPane.showMessageDialog(null, 
                     "Gagal hash password: " + ex.getMessage(), 
                     "Kesalahan", JOptionPane.ERROR_MESSAGE);

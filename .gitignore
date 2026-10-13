@@ -4,3 +4,12 @@ nbproject/private/
 *.class
 *.jar
 .DS_Store
+/AplikasiGajiWeb/nbproject/private/
+/loginstruts/nbproject/private/
+/loginStruts/nbproject/private/
+/loginStruts_1/nbproject/private/
+/JSFAjax/nbproject/private/
+/JSAJax/nbproject/private/
+/MateriSessionCookies/nbproject/private/
+/AplikasiGajiKaryawanPTSintoryWeb/nbproject/private/
+/AplikasiGajiKaryawanPTSintoryWebb/nbproject/private/

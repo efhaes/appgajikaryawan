@@ -1,0 +1,496 @@
+12-Oct-2026 13:48:35.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 13:48:35.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 13:48:35.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 13:48:35.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 13:48:35.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 13:48:35.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 13:48:35.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 13:48:35.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 13:48:35.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 13:48:35.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 13:48:35.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 13:48:35.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 13:48:35.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 13:48:35.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 13:48:35.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 13:48:35.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 13:48:35.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 13:48:35.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 13:48:35.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 13:48:35.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 13:48:35.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 13:48:35.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 13:48:35.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 13:48:35.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 13:48:35.192 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 13:48:35.541 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 13:48:35.570 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [728] milliseconds
+12-Oct-2026 13:48:35.623 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 13:48:35.623 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 13:48:35.632 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 13:48:35.910 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [277] ms
+12-Oct-2026 13:48:35.911 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 13:48:36.754 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [842] ms
+12-Oct-2026 13:48:36.754 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 13:48:36.804 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [50] ms
+12-Oct-2026 13:48:36.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 13:48:36.840 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [36] ms
+12-Oct-2026 13:48:36.840 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 13:48:36.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [25] ms
+12-Oct-2026 13:48:36.868 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 13:48:36.909 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1337] milliseconds
+12-Oct-2026 13:48:39.955 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 13:48:39.958 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 13:48:40.022 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [66] ms
+12-Oct-2026 13:48:40.026 INFO [http-nio-8080-exec-7] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/AplikasiGajiWeb]] after start() had already been called. The second call will be ignored.
+12-Oct-2026 13:55:20.792 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 13:55:20.809 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 13:55:20.836 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 13:55:20.925 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 13:55:20.947 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:30:59.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 15:30:59.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 15:30:59.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:30:59.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 15:30:59.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:30:59.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:30:59.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 15:30:59.439 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 15:30:59.439 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 15:30:59.439 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 15:30:59.461 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 15:30:59.761 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:30:59.796 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [597] milliseconds
+12-Oct-2026 15:30:59.851 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 15:30:59.851 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 15:30:59.872 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 15:30:59.882 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 15:31:00.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [298] ms
+12-Oct-2026 15:31:00.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 15:31:00.200 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [30] ms
+12-Oct-2026 15:31:00.200 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 15:31:00.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [375] ms
+12-Oct-2026 15:31:00.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 15:31:00.623 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [48] ms
+12-Oct-2026 15:31:00.625 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 15:31:00.656 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [31] ms
+12-Oct-2026 15:31:00.657 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 15:31:00.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [29] ms
+12-Oct-2026 15:31:00.692 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:31:00.743 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [944] milliseconds
+12-Oct-2026 15:31:03.372 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 15:31:03.374 WARNING [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 15:31:03.527 INFO [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 15:31:03.539 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [167] ms
+12-Oct-2026 15:31:03.543 INFO [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/loginStruts]] after start() had already been called. The second call will be ignored.
+12-Oct-2026 15:48:13.421 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 15:48:13.433 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:48:13.444 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 15:48:13.491 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:48:13.522 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:59:59.062 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 15:59:59.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 15:59:59.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 15:59:59.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 15:59:59.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:59:59.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 15:59:59.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 15:59:59.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 15:59:59.084 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:59:59.084 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 15:59:59.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 15:59:59.136 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 15:59:59.136 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 15:59:59.136 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 15:59:59.172 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 15:59:59.448 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 15:59:59.470 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [629] milliseconds
+12-Oct-2026 15:59:59.523 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 15:59:59.523 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 15:59:59.534 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 15:59:59.545 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 15:59:59.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [264] ms
+12-Oct-2026 15:59:59.797 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 15:59:59.798 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 16:00:00.007 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 16:00:00.049 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [252] ms
+12-Oct-2026 16:00:00.050 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 16:00:00.078 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [28] ms
+12-Oct-2026 16:00:00.079 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 16:00:00.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [301] ms
+12-Oct-2026 16:00:00.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 16:00:00.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [28] ms
+12-Oct-2026 16:00:00.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 16:00:00.434 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [26] ms
+12-Oct-2026 16:00:00.434 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 16:00:00.436 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [2] ms
+12-Oct-2026 16:00:00.454 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 16:00:00.484 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1011] milliseconds
+12-Oct-2026 16:00:22.256 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 16:00:22.257 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 16:00:22.262 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 16:00:22.293 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 16:00:22.299 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:03:20.031 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 19:03:20.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 19:03:20.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:03:20.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:03:20.051 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 19:03:20.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 19:03:20.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 19:03:20.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 19:03:20.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 19:03:20.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 19:03:20.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 19:03:20.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 19:03:20.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 19:03:20.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 19:03:20.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 19:03:20.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 19:03:20.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 19:03:20.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 19:03:20.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:03:20.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:03:20.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 19:03:20.080 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 19:03:20.080 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 19:03:20.080 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 19:03:20.098 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 19:03:20.528 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:03:20.577 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [813] milliseconds
+12-Oct-2026 19:03:20.637 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 19:03:20.637 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 19:03:20.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 19:03:20.665 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 19:03:21.015 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [367] ms
+12-Oct-2026 19:03:21.016 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 19:03:21.018 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 19:03:21.313 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:03:21.358 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [343] ms
+12-Oct-2026 19:03:21.358 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 19:03:21.422 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [61] ms
+12-Oct-2026 19:03:21.423 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 19:03:21.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [427] ms
+12-Oct-2026 19:03:21.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 19:03:21.888 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [37] ms
+12-Oct-2026 19:03:21.888 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 19:03:21.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [30] ms
+12-Oct-2026 19:03:21.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 19:03:21.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [28] ms
+12-Oct-2026 19:03:21.948 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:03:21.988 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1421] milliseconds
+12-Oct-2026 19:04:17.876 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 19:04:17.877 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:04:17.881 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 19:04:17.911 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:04:17.919 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:05:00.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 19:05:00.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 19:05:00.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 19:05:00.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 19:05:00.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 19:05:00.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 19:05:00.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 19:05:00.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 19:05:00.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 19:05:00.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:05:00.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 19:05:00.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 19:05:00.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 19:05:00.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 19:05:00.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:05:00.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:05:00.885 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 19:05:00.885 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 19:05:00.885 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 19:05:00.885 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 19:05:00.885 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 19:05:01.261 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:05:01.274 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [711] milliseconds
+12-Oct-2026 19:05:01.347 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 19:05:01.347 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 19:05:01.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 19:05:01.371 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 19:05:01.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [299] ms
+12-Oct-2026 19:05:01.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 19:05:01.656 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 19:05:01.948 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:05:02.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [350] ms
+12-Oct-2026 19:05:02.005 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 19:05:02.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [42] ms
+12-Oct-2026 19:05:02.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 19:05:02.465 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [418] ms
+12-Oct-2026 19:05:02.465 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 19:05:02.515 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [50] ms
+12-Oct-2026 19:05:02.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 19:05:02.550 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [34] ms
+12-Oct-2026 19:05:02.550 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 19:05:02.569 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [19] ms
+12-Oct-2026 19:05:02.573 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:05:02.597 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1311] milliseconds
+12-Oct-2026 19:05:03.211 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiWeb]
+12-Oct-2026 19:05:03.241 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 19:05:03.242 WARNING [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 19:05:03.268 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [27] ms
+12-Oct-2026 19:07:55.097 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 19:07:55.099 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:07:55.104 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 19:07:55.128 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:07:55.154 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:16:52.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 19:16:52.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:16:52.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:16:52.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:16:52.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 19:16:52.690 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 19:16:52.690 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 19:16:52.690 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 19:16:52.723 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 19:16:53.147 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:16:53.175 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [814] milliseconds
+12-Oct-2026 19:16:53.243 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 19:16:53.243 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 19:16:53.251 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 19:16:53.271 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 19:16:53.594 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [342] ms
+12-Oct-2026 19:16:53.595 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 19:16:53.596 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 19:16:53.891 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:16:53.903 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [308] ms
+12-Oct-2026 19:16:53.903 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 19:16:53.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [45] ms
+12-Oct-2026 19:16:53.949 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 19:16:54.323 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [375] ms
+12-Oct-2026 19:16:54.323 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 19:16:54.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [30] ms
+12-Oct-2026 19:16:54.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 19:16:54.381 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [28] ms
+12-Oct-2026 19:16:54.381 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 19:16:54.403 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [20] ms
+12-Oct-2026 19:16:54.408 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:16:54.435 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1252] milliseconds
+12-Oct-2026 19:20:44.316 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:20:44.409 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:20:45.391 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:20:45.412 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:21:55.775 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:21:55.826 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:21:55.967 INFO [http-nio-8080-exec-3] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:21:55.991 INFO [http-nio-8080-exec-3] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:21:56.142 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:21:56.167 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:23:50.775 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:23:50.808 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:23:51.747 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:23:51.777 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:23:51.860 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:23:51.889 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:42:21.760 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:42:21.842 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:42:21.903 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:42:21.937 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:42:22.138 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:42:22.174 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:49:51.166 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:49:51.227 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:49:53.606 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:49:53.674 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:49:57.069 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:49:57.098 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:50:21.085 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:50:21.383 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:50:21.400 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:50:23.987 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] has started
+12-Oct-2026 19:50:24.165 INFO [http-nio-8080-exec-37] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:50:24.169 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiWeb] is completed
+12-Oct-2026 19:52:35.180 INFO [http-nio-8080-exec-42] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AplikasiGajiWeb]
+12-Oct-2026 19:54:21.032 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Oct-2026 19:54:21.043 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:54:21.069 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Oct-2026 19:54:21.091 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:54:21.114 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:54:51.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.122
+12-Oct-2026 19:54:51.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2026 06:55:33 UTC
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.122.0
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+12-Oct-2026 19:54:51.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Oct-2026 19:54:51.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:54:51.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\logging.properties
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|frhnhfdz
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:54:51.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122
+12-Oct-2026 19:54:51.801 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\temp
+12-Oct-2026 19:54:51.818 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.9] using APR version [1.7.6].
+12-Oct-2026 19:54:51.818 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+12-Oct-2026 19:54:51.818 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Oct-2026 19:54:51.858 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.8 25 Aug 2026]
+12-Oct-2026 19:54:52.323 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:54:52.347 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [886] milliseconds
+12-Oct-2026 19:54:52.397 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Oct-2026 19:54:52.397 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.122]
+12-Oct-2026 19:54:52.406 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml]
+12-Oct-2026 19:54:52.420 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginStruts] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has been ignored
+12-Oct-2026 19:54:52.878 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:54:52.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\loginStruts.xml] has finished in [527] ms
+12-Oct-2026 19:54:52.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs]
+12-Oct-2026 19:54:52.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\docs] has finished in [35] ms
+12-Oct-2026 19:54:52.969 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples]
+12-Oct-2026 19:54:53.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\examples] has finished in [404] ms
+12-Oct-2026 19:54:53.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager]
+12-Oct-2026 19:54:53.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\host-manager] has finished in [41] ms
+12-Oct-2026 19:54:53.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager]
+12-Oct-2026 19:54:53.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\manager] has finished in [31] ms
+12-Oct-2026 19:54:53.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT]
+12-Oct-2026 19:54:53.471 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\webapps\ROOT] has finished in [26] ms
+12-Oct-2026 19:54:53.475 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Oct-2026 19:54:53.501 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1152] milliseconds
+12-Oct-2026 19:54:53.640 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml]
+12-Oct-2026 19:54:53.641 WARNING [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has been ignored
+12-Oct-2026 19:54:53.941 INFO [http-nio-8080-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Oct-2026 19:54:53.945 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiWeb.xml] has finished in [305] ms
+12-Oct-2026 19:54:53.947 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/AplikasiGajiWeb]] after start() had already been called. The second call will be ignored.
+12-Oct-2026 20:07:46.414 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml]
+12-Oct-2026 20:07:46.434 WARNING [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MateriSessionCookies] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has been ignored
+12-Oct-2026 20:07:46.516 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\MateriSessionCookies.xml] has finished in [101] ms
+12-Oct-2026 20:07:46.520 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MateriSessionCookies]] after start() had already been called. The second call will be ignored.
+12-Oct-2026 23:45:07.708 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml]
+12-Oct-2026 23:45:07.723 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/AplikasiGajiKaryawanPTSintoryWeb] in deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has been ignored
+12-Oct-2026 23:45:07.804 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\conf\Catalina\localhost\AplikasiGajiKaryawanPTSintoryWeb.xml] has finished in [96] ms
+12-Oct-2026 23:45:07.804 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/AplikasiGajiKaryawanPTSintoryWeb]] after start() had already been called. The second call will be ignored.
+12-Oct-2026 23:47:09.979 INFO [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:10.319 INFO [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:10.655 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:10.689 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:23.686 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:23.763 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:24.263 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:24.295 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:31.785 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:31.830 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:31.967 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:32.004 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:37.513 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:37.560 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:47:38.498 INFO [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:47:38.540 INFO [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:54:00.225 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:54:00.508 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:54:22.012 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:54:22.054 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:54:42.453 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:54:42.497 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:54:42.684 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:54:42.716 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:55:29.569 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:55:29.614 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:57:35.947 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:57:36.075 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:57:37.275 INFO [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:57:37.314 INFO [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:57:37.498 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:57:37.538 INFO [http-nio-8080-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed
+12-Oct-2026 23:59:32.650 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] has started
+12-Oct-2026 23:59:32.716 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/AplikasiGajiKaryawanPTSintoryWeb] is completed

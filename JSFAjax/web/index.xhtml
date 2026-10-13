@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="jakarta.faces.html"
+      xmlns:f="jakarta.faces.core">
+    <h:head>
+        <title>JSF Ajax</title>
+    </h:head>
+    <h:body>
+        <h:form>
+            <h:outputLabel value="Insert Temperature"/>
+            <h:inputText id="temp" value="#{temperatureBean.temp}"/>
+            <h:commandButton value="Check Temperature">
+                <f:ajax execute="temp" render="result"/>
+            </h:commandButton>
+            <br/>
+            <h:outputText id="result" value="#{temperatureBean.result}"/>
+        </h:form>
+    </h:body>
+</html>

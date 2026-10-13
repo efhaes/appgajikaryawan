@@ -295,24 +295,21 @@ public class FormGaji extends javax.swing.JInternalFrame {
 
     private void gajiTablePropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_gajiTablePropertyChange
         if (gajiTable.getSelectedRowCount() > 0) {
-          if (gajiTable.getSelectedColumn() == 0) {
-              String kodePekerjaan = "";
-              try {
-                  Object val = gajiTable.getValueAt(gajiTable.getSelectedRow(), 0);
-                  if (val != null) {
-                      kodePekerjaan = val.toString();
-                  }
-              } catch (Exception ex) {
-              }
+            if (gajiTable.getSelectedColumn() == 0) {
+                String kodePekerjaan = "";
+                try {
+                    Object val = gajiTable.getValueAt(gajiTable.getSelectedRow(), 0);
+                    if (val != null) {
+                        kodePekerjaan = val.toString();
+                    }
+                } catch (Exception ex) {
+                }
 
-              if (!kodePekerjaan.equals("")) {
-                  model.Pekerjaan p = gajiController.cariPekerjaan(kodePekerjaan);
-                  if (p != null) {
-                      gajiTable.setValueAt(p.getNama(), gajiTable.getSelectedRow(), 1);
-                  }
-              }
-          }
-      }  
+                if (!kodePekerjaan.equals("")) {
+                    gajiController.cariPekerjaan(kodePekerjaan);
+                }
+            }
+        }
     }//GEN-LAST:event_gajiTablePropertyChange
 
     private void tutupButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tutupButtonActionPerformed

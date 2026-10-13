@@ -1,0 +1,445 @@
+12-Oct-2026 13:48:36.737 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 13:48:36.738 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 13:48:36.740 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32cb636e')
+12-Oct-2026 13:55:20.914 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 13:55:20.914 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 15:31:00.572 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 15:31:00.572 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 15:31:00.574 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@114a85c2')
+12-Oct-2026 15:48:13.471 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 15:48:13.471 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 16:00:00.369 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 16:00:00.369 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 16:00:00.370 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ec50f54')
+12-Oct-2026 16:00:22.283 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 16:00:22.283 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 19:03:21.838 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 19:03:21.838 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 19:03:21.840 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c30b71f')
+12-Oct-2026 19:04:17.901 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 19:04:17.901 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 19:05:02.465 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 19:05:02.465 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 19:05:02.465 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c30b71f')
+12-Oct-2026 19:07:27.241 SEVERE [http-nio-8080-exec-11] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/AplikasiGajiWeb] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [14] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. jakarta.servlet.http.Cookie resolves to a package
+
+An error occurred at line: [15] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Karyawan resolves to a package
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [14] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. jakarta.servlet.http.Cookie resolves to a package
+
+An error occurred at line: [15] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Karyawan resolves to a package
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:611)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:406)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:364)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:735)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:358)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:309)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:201)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:57)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:170)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:539)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:129)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:764)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:350)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:409)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+12-Oct-2026 19:07:55.117 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 19:07:55.117 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 19:16:54.313 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 19:16:54.313 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 19:16:54.313 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6c000e0c')
+12-Oct-2026 19:17:10.480 SEVERE [http-nio-8080-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/AplikasiGajiWeb] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [14] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. jakarta.servlet.http.Cookie resolves to a package
+
+An error occurred at line: [15] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Karyawan resolves to a package
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [14] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. jakarta.servlet.http.Cookie resolves to a package
+
+An error occurred at line: [15] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Karyawan resolves to a package
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [18] in the jsp file: [/validasi.jsp]
+Karyawan cannot be resolved to a type
+15: 
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:611)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:406)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:364)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:735)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:358)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:309)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:201)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:57)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:170)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:539)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:129)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:764)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:350)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:409)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+12-Oct-2026 19:24:44.366 SEVERE [http-nio-8080-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/AplikasiGajiWeb] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [19] in the jsp file: [/validasi.jsp]
+The method baca(String) is undefined for the type Karyawan
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+The method getPassword() is undefined for the type Karyawan
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+An error occurred at line: [22] in the jsp file: [/validasi.jsp]
+The method getNama() is undefined for the type Karyawan
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+24:         } catch (Exception e) {
+25:             valid = false;
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [16] in the generated java file: [D:\AplikasiGajiKaryawanPTSintory\mentahan\apache-tomcat-9.0.122\work\Catalina\localhost\AplikasiGajiWeb\org\apache\jsp\validasi_jsp.java]
+Only a type can be imported. model.Enkripsi resolves to a package
+
+An error occurred at line: [19] in the jsp file: [/validasi.jsp]
+The method baca(String) is undefined for the type Karyawan
+16:     if (ktp != null && password != null && !ktp.trim().isEmpty()) {
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+Enkripsi cannot be resolved to a type
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+An error occurred at line: [20] in the jsp file: [/validasi.jsp]
+The method getPassword() is undefined for the type Karyawan
+17:         try {
+18:             Karyawan k = new Karyawan();
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+
+
+An error occurred at line: [22] in the jsp file: [/validasi.jsp]
+The method getNama() is undefined for the type Karyawan
+19:             if (k.baca(ktp.trim())
+20:                     && new Enkripsi().hashMD5(password).equals(k.getPassword())) {
+21:                 valid = true;
+22:                 nama = k.getNama();
+23:             }
+24:         } catch (Exception e) {
+25:             valid = false;
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:611)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:406)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:364)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:735)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:358)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:309)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:201)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:57)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:170)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:539)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:129)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:764)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:350)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:409)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+12-Oct-2026 19:24:47.714 SEVERE [http-nio-8080-exec-14] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/AplikasiGajiWeb] threw exception [org.apache.jasper.JasperException: java.lang.ClassNotFoundException: org.apache.jsp.validasi_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.validasi_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:185)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:199)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:458)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:358)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:309)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:201)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:57)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:170)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:146)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:539)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:129)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:764)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:350)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:409)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+12-Oct-2026 19:54:21.080 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Oct-2026 19:54:21.080 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Oct-2026 19:54:53.359 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Oct-2026 19:54:53.359 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Oct-2026 19:54:53.362 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@cda4919')

@@ -16,6 +16,7 @@ public class FormUtama extends javax.swing.JFrame {
     public static FormKaryawan formKaryawan;
     public static FormPekerjaan formPekerjaan;
     public static FormGaji formGaji;
+    public static FormCetak formCetak; 
     public final FormDeskripsi formDeskripsi = new FormDeskripsi(this, true);
     public final FormLogin FormLogin = new FormLogin(this, true);
     
@@ -115,6 +116,7 @@ public class FormUtama extends javax.swing.JFrame {
 
         karyawanLaporanMenuItem.setText("Karyawan");
         karyawanLaporanMenuItem.setToolTipText("");
+        karyawanLaporanMenuItem.addActionListener(this::karyawanLaporanMenuItemActionPerformed);
         laporanMenu.add(karyawanLaporanMenuItem);
 
         pekerjaanLaporanMenuItem.setText("Pekerjaan");
@@ -221,6 +223,20 @@ public class FormUtama extends javax.swing.JFrame {
             setEnableMenu(false);
         }
     }//GEN-LAST:event_aksesMenuItemActionPerformed
+
+    private void karyawanLaporanMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_karyawanLaporanMenuItemActionPerformed
+        if ((formCetak != null) && formCetak.isVisible()) {
+        try {
+            formCetak.setSelected(true);
+        } catch (java.beans.PropertyVetoException ex) {
+            ex.printStackTrace();
+        }
+    } else {
+        formCetak = new FormCetak();
+        mdiDesktopPane.add(formCetak);
+        formCetak.setVisible(true);
+    }// TODO add your handling code here:
+    }//GEN-LAST:event_karyawanLaporanMenuItemActionPerformed
 
     /**
      * @param args the command line arguments

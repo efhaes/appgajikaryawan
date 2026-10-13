@@ -11,11 +11,14 @@ import model.Gaji;
 import view.FormLihatKaryawan;
 import view.FormLihatPekerjaan;
 import view.FormUtama;
-
+import java.util.ArrayList;
+import java.util.List;
 /**
- *
+ 
  * @author anandaanugrah
  */
+
+
 public class GajiController {
     private final Karyawan karyawan = new Karyawan();
     private final Pekerjaan pekerjaan = new Pekerjaan();
@@ -23,6 +26,46 @@ public class GajiController {
     private FormLihatKaryawan formLihatKaryawan;
     private FormLihatPekerjaan formLihatPekerjaan;
     
+    public void simpan(javax.swing.JTextField ktpTextField, javax.swing.JTable gajiTable){
+      String ktp = ktpTextField.getText().trim();
+      if (ktp.isEmpty()){
+            JOptionPane.showMessageDialog(null, "KTP tidak Boleh kosong",
+                "kesalahan", JOptionPane.ERROR_MESSAGE);
+            return;
+        }
+      if (gajiTable.isEditing()){
+          gajiTable.getCellEditor().stopCellEditing();
+          
+      }
+      List<Object[]> baris = new ArrayList<>();
+      for( int i = 0; i < gajiTable.getRowCount(); i++){
+          Object kode = gajiTable.getValueAt(i,0);
+          if (kode != null && !kode.toString().trim().isEmpty())
+     {
+              baris.add (new Object[]{
+                      kode.toString().trim(),
+                      gajiTable.getValueAt(i,2),
+                      gajiTable.getValueAt(i,3),
+                      gajiTable.getValueAt(i,4)
+          });
+      }
+              
+    }
+    if (baris.isEmpty()){
+    JOptionPane.showMessageDialog(null, "Data gaji masih kosong",
+            "Kesalahan", JOptionPane.ERROR_MESSAGE);
+            return;
+        }
+    gaji.setKtp(ktp);
+    gaji.setListGaji(baris.toArray(new Object[0][]));
+
+    if (gaji.simpan()) {
+        JOptionPane.showMessageDialog(null, "Data berhasil disimpan!");
+        } else {
+            JOptionPane.showMessageDialog(null, gaji.getPesan(),
+                "Kesalahan", JOptionPane.ERROR_MESSAGE);
+            }
+    } 
     public void cariKaryawan(javax.swing.JTextField ktp) {
         if (!ktp.getText().equals("")) {
             if (karyawan.baca(ktp.getText())) {
